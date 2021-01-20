@@ -1,0 +1,8 @@
+this star's name is - moon
+this star's diameter is - 100
+this star's temperature is - 35
+planet's name is - fs
+star's name is - sad
+distance from star is - 2
+speed is - 22
+time for one cycle around the star - 0.0
